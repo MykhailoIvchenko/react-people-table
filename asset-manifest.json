@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-people-table/static/css/main.f3a5f7ae.chunk.css",
+    "main.js": "/react-people-table/static/js/main.7611d560.chunk.js",
+    "main.js.map": "/react-people-table/static/js/main.7611d560.chunk.js.map",
+    "runtime-main.js": "/react-people-table/static/js/runtime-main.26f312e5.js",
+    "runtime-main.js.map": "/react-people-table/static/js/runtime-main.26f312e5.js.map",
+    "static/js/2.94ce8984.chunk.js": "/react-people-table/static/js/2.94ce8984.chunk.js",
+    "static/js/2.94ce8984.chunk.js.map": "/react-people-table/static/js/2.94ce8984.chunk.js.map",
+    "index.html": "/react-people-table/index.html",
+    "static/css/main.f3a5f7ae.chunk.css.map": "/react-people-table/static/css/main.f3a5f7ae.chunk.css.map",
+    "static/js/2.94ce8984.chunk.js.LICENSE.txt": "/react-people-table/static/js/2.94ce8984.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f312e5.js",
+    "static/js/2.94ce8984.chunk.js",
+    "static/css/main.f3a5f7ae.chunk.css",
+    "static/js/main.7611d560.chunk.js"
+  ]
+}
